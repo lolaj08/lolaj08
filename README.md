@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lolaj08
 - ✈️ I’m interested in Aviation
-- 🌱 I’m currently learning Turkish language
-- 💞️ I’m looking to collaborate on still haven't decided I am a beginner 
+- 🖥️ First year of software engineering 
 - ⚡ Fun fact: I am truly nervous and stressed about learning software engineering 
 
 
