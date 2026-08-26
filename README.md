@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lolaj08
 - ✈️ I’m interested in Aviation
-- 🖥️ First year of software engineering 
-- ⚡ Fun fact: I am truly nervous and stressed about learning software engineering 
+- 🖥️ Second year of software engineering 
+
 
 
 <!---
